@@ -2,7 +2,7 @@
   <img src="./docs/icon-512.png" alt="PurpleCabin Logo" width="150" />
 </p>
 
-# 🏔️ PurpleCabin – *There are many Cabins on the Mountain*
+# 🏔️ PurpleCabin – „Build your own Cabin on the Mountain – and help others do the same.“ 🏕️
 
 **PurpleCabin** ist eine Sammlung smarter Tools und Services, die in einem zentralen IoT-Dashboard namens **PurpleMountain** zusammenlaufen.
 
