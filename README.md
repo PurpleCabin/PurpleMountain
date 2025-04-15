@@ -2,7 +2,7 @@
   <img src="./docs/icon-512.png" alt="PurpleCabin Logo" width="150" />
 </p>
 
-# 🏔️ PurpleCabin – „Build your own Cabin on the Mountain – and help others do the same.“ 🏕️
+# 🏔️ PurpleCabin – *There are many Cabins on the Mountain*
 
 **PurpleCabin** ist eine Sammlung smarter Tools und Services, die in einem zentralen IoT-Dashboard namens **PurpleMountain** zusammenlaufen.
 
@@ -31,14 +31,13 @@ Ursprünglich für meine eigene Wohnung entwickelt, wächst dieses Projekt nun z
 - 🧠 ESP32 (Arduino IDE + WiFi/Bluetooth)
 - 🧭 Tailscale (Zero-Config VPN)
 - 🎨 HTML, CSS, JavaScript (Frontend)
-- 💻 Entwickelt mit: VS Code, Ubuntu WSL2, GitHub
 
 ---
 
 ## 🚀 Installation (Quickstart via Docker)
 
 ```bash
-git clone https://github.com/purplecabin/PurpleCabin.git
-cd PurpleCabin
+git clone https://github.com/PurpleCabin/PurpleMountain.git
+cd PurpleMountain
 cp .env.example .env  # Passe deine Umgebungsvariablen an
 docker-compose up -d
